@@ -5,6 +5,8 @@ Driver distraction is a critical safety concern on our roadways, with potentiall
 
 STEPS INVOLED
 
-Download zip from repository
-install requirements from requirements.txt
-Run python main.py
+-Download zip from repository
+
+-install requirements from requirements.txt
+
+-Run python main.py
